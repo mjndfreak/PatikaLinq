@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/bin/Debug/net8.0/PatikLinq
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/bin/Debug/net8.0/PatikLinq.deps.json
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/bin/Debug/net8.0/PatikLinq.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/bin/Debug/net8.0/PatikLinq.dll
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/bin/Debug/net8.0/PatikLinq.pdb
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.dll
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/refint/PatikLinq.dll
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.pdb
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/PatikLinq.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/PatikLinq/PatikLinq/obj/Debug/net8.0/ref/PatikLinq.dll
